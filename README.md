@@ -30,3 +30,5 @@ Run the scanner: Execute your port scanner script and target the IP address of t
 Stop the server: Once the scan is complete, press Ctrl + C in the terminal to stop the HTTP server. The next time you run the scanner, that port will appear as closed.
 
 This method provides a reliable and simple way to confirm your scanner is working correctly.
+
+## This is note 1 for this projects , next  versions will be coming....
