@@ -25,6 +25,7 @@ Start a server: In your terminal, use the following command to start a simple HT
 Bash
 
 python -m http.server <port number>
+
 Run the scanner: Execute your port scanner script and target the IP address of the machine running the server. The scanner should successfully identify that the specified port is open.
 
 Stop the server: Once the scan is complete, press Ctrl + C in the terminal to stop the HTTP server. The next time you run the scanner, that port will appear as closed.
